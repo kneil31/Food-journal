@@ -10,3 +10,9 @@ This repo helps me track my weekly food prep, organize recipes, and manage shopp
 
 ## Goal
 To save time, eat healthier, and reduce food waste.
+
+## ❗ Restrictions
+- ❌ Tuesday Non-Veg – Don’t Cook
+- ❌ Saturday Non-Veg – Don’t Cook
+
+
