@@ -15,4 +15,17 @@ To save time, eat healthier, and reduce food waste.
 - ❌ Tuesday Non-Veg – Don’t Cook
 - ❌ Saturday Non-Veg – Don’t Cook
 
+## 🍛 Currys
+- Tomato Egg  
+- Chicken Curry *(preferably on Fridays)*  
+- Dal  
+- Potato Fry
+
+## 🍚 Pulav’s
+- Shrimp Pulav  
+- Chicken Pulav
+
+## 🥣 Pachadi’s
+- Dondakay  
+- Cabbage
 
